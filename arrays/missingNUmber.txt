@@ -6,7 +6,7 @@ int main()
     printf("enter number=");
     scanf("%d",&n);
 
-    printf("enter %d number=",n-1);
+    printf("enter %d number=");
 
     for(int i=0;i<n-1;i++)
     {
